@@ -46,6 +46,11 @@ parent = "Pages"
 name = "404 Page"
 url = "404/"
 
+[[main]]
+parent = "Pages"
+name = "FRO Page"
+url = "fro/"
+
 
 # footer menu
 [[footer]]
