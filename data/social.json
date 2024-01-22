@@ -3,22 +3,22 @@
     {
       "name": "facebook",
       "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/team5401"
     },
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "name": "slack",
+      "icon": "fab fa-slack",
+      "link": "https:team5401.slack.com"
     },
     {
       "name": "github",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/"
+      "link": "https://github.com/FRO5401"
     },
     {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "google",
+      "icon": "fab fa-google",
+      "link": "https://drive.google.com/drive/folders/169j1sGILHNzU79gYjeFwNPsO99QrxI-x?usp=sharing"
     }
   ]
 }

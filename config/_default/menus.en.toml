@@ -7,17 +7,22 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "Assembly"
+url = "assembly/"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "elements/"
+name = "Business"
+url = "business/"
 weight = 3
 
 [[main]]
+name = "Programming"
+url = "programming/"
 weight = 4
+
+[[main]]
+weight = 5
 name = "Pages"
 hasChildren = true
 
@@ -33,11 +38,6 @@ url = "contact/"
 
 [[main]]
 parent = "Pages"
-name = "Authors"
-url = "authors/"
-
-[[main]]
-parent = "Pages"
 name = "Categories"
 url = "categories/"
 
@@ -45,12 +45,6 @@ url = "categories/"
 parent = "Pages"
 name = "404 Page"
 url = "404/"
-
-[[main]]
-parent = "Pages"
-name = "FRO Page"
-url = "fro/"
-
 
 # footer menu
 [[footer]]
